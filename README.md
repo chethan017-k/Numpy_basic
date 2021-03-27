@@ -1,2 +1,2 @@
-# Numpy_basic
+# python basic
 all numpy  Functions for Machine learning 
